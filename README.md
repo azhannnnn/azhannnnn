@@ -29,10 +29,11 @@ I'm dividing my skills into two different categories. Firstly, as **Programming 
   <img width="48" height="48" src="https://img.icons8.com/fluency/100/html-5.png" alt="HTML5"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/100/css3.png" alt="CSS3"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/100/api.png" alt="API"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/100/django.png" alt="Django"/> &nbsp;
+  <img width="48" height="48" src="https://github.com/user-attachments/assets/87009c9e-78b6-49f3-87d5-9c8f3361e7c9" alt="Django"/> &nbsp;
+
   <img width="48" height="48" src="https://img.icons8.com/fluency/100/python.png" alt="Python"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/100/cloudflare.png" alt="REST API"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/100/linux.png" alt="Linux"/> &nbsp;
+  <img width="48" height="48" src="[https://img.icons8.com/fluency/100/cloudflare.png](https://img.icons8.com/?size=100&id=21893&format=png&color=000000)" alt="REST API"/> &nbsp;
+  <img width="48" height="48" src="https://icons8.com/icon/17842/linux" alt="Linux"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/100/console.png" alt="Shell Scripting"/>
 </div>
 
@@ -40,9 +41,9 @@ I'm dividing my skills into two different categories. Firstly, as **Programming 
 <h5 align="left">Software Skills:</h5>
 
 <div align="center">
-  <img width="48" height="48" src="https://img.icons8.com/fluency/100/git.png" alt="Git"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/100/aws.png" alt="AWS"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/100/jira.png" alt="Jira"/> &nbsp;
+  <img width="48" height="48" src="https://icons8.com/icon/20906/git" alt="Git"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="AWS"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=88A2TjSK5Rmi&format=png&color=000000" alt="Jira"/> &nbsp;
   <img width="48" height="48" src="https://img.icons8.com/fluency/100/visual-studio-code-2019.png" alt="Visual Studio Code"/>
 </div>
 
