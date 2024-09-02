@@ -25,12 +25,27 @@ I'm dividing my skills into two different categories. Firstly, as **Programming 
 <div align="left">
 <h5 align="left">Programming Skills:</h5>
 
-<img width="48" height="48" src="https://img.icons8.com/fluency/100/html-5.png" alt="html-5"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/100/css3.png" alt="css3"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/100/api.png" alt="api"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/100/django.png" alt="django"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/100/python.png" alt="python"/>
+<div align="center">
+  <img width="48" height="48" src="https://img.icons8.com/fluency/100/html-5.png" alt="HTML5"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/100/css3.png" alt="CSS3"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/100/api.png" alt="API"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/100/django.png" alt="Django"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/100/python.png" alt="Python"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/100/cloudflare.png" alt="REST API"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/100/linux.png" alt="Linux"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/100/console.png" alt="Shell Scripting"/>
+</div>
+
 
 <h5 align="left">Software Skills:</h5>
 
-<img width="48" height="48" src="https://img.icons8.com/fluency/100/git.png" alt="git"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/100/aws.png" alt="aws"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/100/jira.png" alt="jira"/> &nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<div align="center">
+  <img width="48" height="48" src="https://img.icons8.com/fluency/100/git.png" alt="Git"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/100/aws.png" alt="AWS"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/100/jira.png" alt="Jira"/> &nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/fluency/100/visual-studio-code-2019.png" alt="Visual Studio Code"/>
 </div>
+
 
 Thank you for reviewing my skills and profile. If you genuinely wish to get in touch, please reach out, and I'll be delighted to collaborate with you on exciting projects.
 
