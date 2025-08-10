@@ -1,102 +1,86 @@
-# Hi, I'm Azhan Khan 👋🏼
+# 👋 Hey, I'm Azhan Khan!
 
+🚀 **Data Engineer | Python Developer | Problem Solver**  
+💻 Building scalable data platforms, crafting efficient APIs, and solving complex coding challenges.
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in building scalable web applications using Python and Django. I also have a growing interest in DevOps, and I’m always on the lookout for new learning opportunities to expand my skill set.
+---
 
-**Python Django Developer | DevOps Enthusiast | Lifelong Learner**
+## 🧑‍💻 About Me
 
-# Have a Look at My Portfolio 👀 <br>
-Hey, If you are visiting my portfolio website. Please, give some feedbacks. This will help me to improve user experience. <br>
+- 🎓 **B.Tech in Computer Science & Engineering** (2021–2025) @ NRI Institute of Technology, Bhopal
+- 🌟 Skilled in **Data Engineering, Python Development, and Cloud Solutions**
+- 🏆 **500+ DSA problems** solved on LeetCode & GFG, **Top 8.5% LeetCoder** (World Rank 321 in Weekly Contest 430)
+- ⚡ Passionate about creating **scalable architectures**, **performance-driven applications**, and **data-driven insights**
 
->[!NOTE]
->Please visit my portfoilio website: <a href="https://azhanfolio.pythonanywhere.com/">azhanfolio</a> <br>
+---
 
-Copy and Paste below link in your Browser to visit my Website.
+## 🔧 Tech Stack & Skills
 
-    //Link 1
-    http://azhanfolio.pythonanywhere.com
-    
-    //Link 2
-    http://jerseystore.pythonanywhere.com/
+**Languages & Frameworks:**  
+`Python` `SQL` `PySpark` `Django` `FastAPI` `HTML5` `CSS3` `JavaScript`
 
-## Look at my Skills ✨ <br>
-I'm dividing my skills into two different categories. Firstly, as **Programming Skills**. Secondy, as **Software Skills**.
+**Data Engineering & Cloud:**  
+`Azure Data Factory` `Azure Databricks` `Data Lake Gen2` `Unity Catalog` `Delta Lake` `AWS`
 
-<div align="left">
-<h5 align="left">Programming Skills:</h5>
+**Tools & Others:**  
+`Git` `Alembic` `DuckDB` `Frappe` `Docker` `Pandas` `Power BI`
 
-<div align="center">
-  <img width="48" height="48" src="https://img.icons8.com/fluency/100/html-5.png" alt="HTML5"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/100/css3.png" alt="CSS3"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/100/api.png" alt="API"/> &nbsp;
-  <img width="48" height="48" src="https://github.com/user-attachments/assets/87009c9e-78b6-49f3-87d5-9c8f3361e7c9" alt="Django"/> &nbsp;
+---
 
-  <img width="48" height="48" src="https://img.icons8.com/fluency/100/python.png" alt="Python"/> &nbsp;
-  <img width="48" height="48" src="[https://img.icons8.com/fluency/100/cloudflare.png](https://img.icons8.com/?size=100&id=21893&format=png&color=000000)" alt="REST API"/> &nbsp;
-  <img width="48" height="48" src="https://icons8.com/icon/17842/linux" alt="Linux"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/100/console.png" alt="Shell Scripting"/>
-</div>
+## 📌 Experience
 
+### **Software Engineer Intern** @ Netlink Software Group America Inc. *(Feb 2025 – May 2025)*
+- Built **ETL pipelines** using Lumenore's Data Magnet for scalable ingestion & processing
+- Developed & managed **Alembic migrations** for efficient DB version control
+- Leveraged **Frappe** & **DuckDB** for optimized backend workflows
 
-<h5 align="left">Software Skills:</h5>
+### **Python Developer Intern** @ Wyreflow Technology *(May 2024 – Sep 2024)*
+- Built and deployed **dynamic Django apps** improving performance by 20% and reducing bugs by 30%
+- Designed **REST APIs** and deployed using AWS
+- Enhanced database performance via **SQLite + Django ORM**
 
-<div align="center">
-  <img width="48" height="48" src="https://icons8.com/icon/20906/git" alt="Git"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="AWS"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=88A2TjSK5Rmi&format=png&color=000000" alt="Jira"/> &nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/fluency/100/visual-studio-code-2019.png" alt="Visual Studio Code"/>
-</div>
+---
 
+## 🚀 Projects
 
-Thank you for reviewing my skills and profile. If you genuinely wish to get in touch, please reach out, and I'll be delighted to collaborate with you on exciting projects.
+### [Scalable Car Sales Insights Platform](https://github.com/azhannnnn/carSalesProject)
+> **ADF | Databricks | PySpark | Power BI**  
+Azure Medallion Architecture for Car Sales data analysis with Bronze-Silver-Gold layers and **interactive dashboards**.
 
+### [Healthcare RCM Data Platform](https://github.com/azhannnnn/RCMdataPlatform)
+> **ADF | Databricks | Delta Lake | Unity Catalog**  
+Metadata-driven pipelines, SCD Type 2, ICD/CPT code handling, and Power BI integration.
 
-# Find Me Around The World of Web 🌐
-- Get **connected** with me on 💻 [LinkedIn](https://www.linkedin.com/in/azhankhan22/). <br>
-- Let's **contribute** on 😎 [Github](https://github.com/azhannnnn). <br>
-- **Follow** me on 🙏🏼 [Instagram](https://www.instagram.com/azhxnn_). <br>
+### [Hiring Platform](http://azhanfolio.pythonanywhere.com/)
+> **Django | REST API | AWS**  
+Scalable job portal supporting **1000+ users**, **500+ listings**, and **2000+ daily requests**.
 
+### [E-Commerce Website](http://azhanfolio.pythonanywhere.com/)
+> **Django | UX/UI Optimization**  
+Boosted engagement by **25%** via better data handling & intuitive interface.
 
-# I'm also available at 👻
+### [Personal Portfolio Website](http://azhanfolio.pythonanywhere.com/)
+> Dynamic Django-powered portfolio with responsive design and integrated blog.
 
-Social Platforms:
+---
 
-<img width="24" height="24" src="https://img.icons8.com/fluency/100/behance.png" alt="behance"/> &nbsp; <img width="24" height="24" src="https://img.icons8.com/fluency/100/youtube-play.png" alt="youtube-play"/> &nbsp; <img width="24" height="24" src="https://img.icons8.com/fluency/100/instagram-new.png" alt="instagram-new"/> &nbsp; <img width="24" height="24" src="https://img.icons8.com/fluency/100/linkedin.png" alt="linkedin"/>
+## 📈 Competitive Programming
 
-Feeling good then, also have a look below.
+- **LeetCode Rating:** 1750+  
+- **Solved:** 500+ problems  
+- **Best Contest Rank:** *321 / 22,000+ participants*  
 
-<img src="https://komarev.com/ghpvc/?username=azhannnnn&color=128c7e">
+![LeetCode Stats](https://leetcard.jacoblin.cool/azhan-born-to-win?theme=dark&font=Source%20Code%20Pro&ext=contest)
 
-# Extras
+---
 
+## 📫 Connect with Me
 
-I'm different from others; thus, I don't showcase the usual stats and trophies at the top of this `readme.md` file on GitHub. However, in keeping with my individuality, I've included them below for others to gain visual insight into my GitHub trophies and stats. I truly appreciate the work done to create this useful stat manager on GitHub and the developers & contributors made here.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhankhan22/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azhannnnn)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/azhan-born-to-win/)  
+📧 **Email:** [work.azhankhan@gmail.com](mailto:work.azhankhan@gmail.com)
 
-### <p align="center">Take a Look at My Github Stats 🍀</p>
+---
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azhannnnn&theme=dark&show_icons=true&hide_border=true&count_private=false">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=azhannnnn&theme=dark&hide_border=true"> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azhannnnn&theme=dark&show_icons=true&hide_border=true&layout=compact"> <br>
-</div>
-
-### <p align="center">Some of Github Trophies 🏆</p>
-
-
-<div align="center">
-  
-  <p>🌟 Github Profile Trophies 🌟</p>
-  <img src="https://github-profile-trophy.vercel.app/?username=azhannnnn">
-  <br>
-  <br>
-  <p align="center">🌟 Github Trophies 🌟</p>
-  <img src="https://github-trophies.vercel.app/?username=azhannnnn">
-  <br>
-  <br>
-</div>
-<br>
-
-<p align="center"> Made by <a href="https://github.com/azhannnnn">@azhannnnn</a>, Made with Heat 🔥. </p>
-
-
+⭐ *"Code is like humor. When you have to explain it, it’s bad."*  
