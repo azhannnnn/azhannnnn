@@ -71,6 +71,8 @@ Boosted engagement by **25%** via better data handling & intuitive interface.
 - **Best Contest Rank:** *321 / 22,000+ participants*  
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/azhan-born-to-win?theme=dark&font=Source%20Code%20Pro&ext=contest)
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/azhankhan22)](https://www.geeksforgeeks.org/user/azhankhan22/)
+
 
 ---
 
@@ -79,6 +81,7 @@ Boosted engagement by **25%** via better data handling & intuitive interface.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhankhan22/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azhannnnn)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/azhan-born-to-win/)  
+[![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-GfG-User-ID-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/azhankhan22/) 
 📧 **Email:** [work.azhankhan@gmail.com](mailto:work.azhankhan@gmail.com)
 
 ---
