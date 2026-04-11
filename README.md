@@ -1,89 +1,143 @@
-# 👋 Hey, I'm Azhan Khan!
+# Azhan Khan — Data Engineer & AI Systems Builder
 
-🚀 **Data Engineer | Python Developer | Problem Solver**  
-💻 Building scalable data platforms, crafting efficient APIs, and solving complex coding challenges.
+**Building data pipelines and agentic AI systems at scale.**
 
----
+Most recently: ML training data infrastructure for **NVIDIA's autonomous driving program** at Zensar Technologies — 100K+ multi-modal records daily, 35% reduction in training data defect rates.
 
-## 🧑‍💻 About Me
+Gen AI APAC Hackathon: Built **PatchPilot** — a 7-agent autonomous incident response system with real MCP protocol, Gemini function-calling, FAISS memory, and WebSocket streaming. Deployed on GCP Cloud Run.
 
-- 🎓 **B.Tech in Computer Science & Engineering** (2021–2025) @ NRI Institute of Technology, Bhopal
-- 🌟 Skilled in **Data Engineering, Python Development, and Cloud Solutions**
-- 🏆 **500+ DSA problems** solved on LeetCode & GFG, **Top 8.5% LeetCoder** (World Rank 321 in Weekly Contest 430)
-- ⚡ Passionate about creating **scalable architectures**, **performance-driven applications**, and **data-driven insights**
+Currently open to **remote data engineering roles** and **freelance Azure / agentic AI projects**.
 
 ---
 
-## 🔧 Tech Stack & Skills
+## What I Build
 
-**Languages & Frameworks:**  
-`Python` `SQL` `PySpark` `Django` `FastAPI` `HTML5` `CSS3` `JavaScript`
+```
+Data Engineering:
+Raw Data → Ingestion (ADF) → Bronze → Silver → Gold → BI / ML
 
-**Data Engineering & Cloud:**  
-`Azure Data Factory` `Azure Databricks` `Data Lake Gen2` `Unity Catalog` `Delta Lake` `AWS`
+Agentic AI:
+Alert → Planner → Memory → Tools[×8 parallel] → Diagnosis → Debate → Controller
+```
 
-**Tools & Others:**  
-`Git` `Alembic` `DuckDB` `Frappe` `Docker` `Pandas` `Power BI`
-
----
-
-## 📌 Experience
-
-### **Software Engineer Intern** @ Netlink Software Group America Inc. *(Feb 2025 – May 2025)*
-- Built **ETL pipelines** using Lumenore's Data Magnet for scalable ingestion & processing
-- Developed & managed **Alembic migrations** for efficient DB version control
-- Leveraged **Frappe** & **DuckDB** for optimized backend workflows
-
-### **Python Developer Intern** @ Wyreflow Technology *(May 2024 – Sep 2024)*
-- Built and deployed **dynamic Django apps** improving performance by 20% and reducing bugs by 30%
-- Designed **REST APIs** and deployed using AWS
-- Enhanced database performance via **SQLite + Django ORM**
+End-to-end Azure data platforms · Scalable ETL in Python & PySpark · Medallion Architecture  
+Multi-agent AI systems · LangChain · LangGraph · Gemini · MCP Protocol · GCP
 
 ---
 
-## 🚀 Projects
+## Tech Stack
 
-### [Scalable Car Sales Insights Platform](https://github.com/azhannnnn/carSalesProject)
-> **ADF | Databricks | PySpark | Power BI**  
-Azure Medallion Architecture for Car Sales data analysis with Bronze-Silver-Gold layers and **interactive dashboards**.
+**Data Engineering**
+```
+Python · PySpark · SQL · Azure Data Factory · Azure Databricks · Delta Lake
+ADLS Gen2 · Unity Catalog · Azure Synapse · DuckDB · Alembic · Pandas · Power BI
+```
+
+**Agentic AI & LLMs**
+```
+Gemini (Vertex AI) · LangChain · LangGraph · FAISS · MCP Protocol (JSON-RPC 2.0)
+sentence-transformers · Gemini function-calling · Multi-agent orchestration
+```
+
+**Cloud & DevOps**
+```
+Microsoft Azure · GCP (Cloud Run · Firestore · Pub/Sub · Cloud Monitoring · Cloud Logging)
+AWS (EC2 · S3) · Docker · GitHub Actions · CI/CD · Cloud Build · Secret Manager
+```
+
+**Backend**
+```
+FastAPI · Django · REST APIs · WebSockets · asyncio
+```
+
+---
+
+## Featured Projects
+
+### [PatchPilot — Multi-Agent Autonomous Incident Response](https://github.com/azhannnnn/patchpilot)
+`Gemini` `LangGraph` `MCP` `FAISS` `Firestore` `Cloud Run` `FastAPI` `WebSocket` `Pub/Sub`
+
+> Built for the Gen AI APAC Hackathon
+
+7-agent autonomous system that detects infrastructure incidents, diagnoses root causes with Gemini AI, debates fix strategies adversarially with dual Gemini instances, and resolves incidents — with or without human approval.
+
+```
+Alert → PlannerAgent (Gemini fn-calling)
+      → MemoryAgent (FAISS + Firestore fingerprint)
+      → ToolAgent [8 tools, asyncio.gather PARALLEL]
+      → DiagnosticAgent (Gemini RCA synthesis)
+      → DebateAgent (dual Gemini, adversarial)
+      → TaskAgent (Firestore task scheduling)
+      → ControllerAgent (human approval OR auto-fix)
+```
+
+- Real MCP protocol — JSON-RPC 2.0 `/mcp` endpoint
+- Real GCP APIs — Cloud Monitoring · Cloud Logging · Cloud Run Admin
+- FAISS memory — repeat incidents auto-resolve in <2s (no human needed)
+- WebSocket real-time agent trace streaming (no polling)
+- Deployed on GCP Cloud Run with Docker + nginx
+
+---
+
+### [Scalable Car Sales Analytics Platform](https://github.com/azhannnnn/carSalesProject)
+`Azure` `ADF` `Databricks` `PySpark` `Delta Lake` `Unity Catalog` `Power BI`
+
+End-to-end Azure analytics platform on Medallion Architecture (Bronze → Silver → Gold).
+5M+ records · Star Schema + SCD Type 2 · Power BI dashboards · Unity Catalog governance.
+
+---
 
 ### [Healthcare RCM Data Platform](https://github.com/azhannnnn/RCMdataPlatform)
-> **ADF | Databricks | Delta Lake | Unity Catalog**  
-Metadata-driven pipelines, SCD Type 2, ICD/CPT code handling, and Power BI integration.
+`Azure` `ADF` `Databricks` `Delta Lake` `PySpark` `GitHub Actions` `Key Vault`
+
+Production data platform for Healthcare Revenue Cycle Management.
+2M+ patient records · Metadata-driven ADF pipelines · ICD/CPT code standardization · Full CI/CD.
+
+---
 
 ### [Hiring Platform](http://azhanfolio.pythonanywhere.com/)
-> **Django | REST API | AWS**  
-Scalable job portal supporting **1000+ users**, **500+ listings**, and **2000+ daily requests**.
+`Django` `REST API` `AWS`
 
-### [E-Commerce Website](http://azhanfolio.pythonanywhere.com/)
-> **Django | UX/UI Optimization**  
-Boosted engagement by **25%** via better data handling & intuitive interface.
-
-### [Personal Portfolio Website](http://azhanfolio.pythonanywhere.com/)
-> Dynamic Django-powered portfolio with responsive design and integrated blog.
+Job portal handling 1000+ users, 500+ listings, and 2000+ daily requests.
 
 ---
 
-## 📈 Competitive Programming
+## Experience
 
-- **LeetCode Rating:** 1750+  
-- **Solved:** 500+ problems  
-- **Best Contest Rank:** *321 / 22,000+ participants*  
+**Data & AI Operations Engineer** — Zensar Technologies · Client: NVIDIA *(Sep 2025 – Apr 2026)*
+→ ML training data pipelines for NVIDIA autonomous driving · 100K+ records/day · 35% defect reduction
+
+**Data Engineer Intern** — Netlink Software Group America *(Feb 2025 – May 2025)*
+→ Production ETL pipelines · Python · DuckDB · Alembic migrations
+
+**Software Engineer Intern** — Wyreflow Technology *(May 2024 – Sep 2024)*
+→ Django REST APIs · AWS EC2 · 20% response time improvement · 30% bug reduction
+
+---
+
+## Competitive Programming
+
+- LeetCode Rating: **1750+** · Solved: **500+ problems**
+- **World Rank 321** among 22,000+ participants — LeetCode Weekly Contest 430 *(Top 8.5% globally)*
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/azhan-born-to-win?theme=dark&font=Source%20Code%20Pro&ext=contest)
-[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/azhankhan22)](https://www.geeksforgeeks.org/user/azhankhan22/)
-
 
 ---
 
-## 📫 Connect with Me
+## Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhankhan22/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azhannnnn)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/azhan-born-to-win/)  
-
-📧 **Email:** [work.azhankhan@gmail.com](mailto:work.azhankhan@gmail.com)
+- Databricks Fundamentals Accreditation
+- Oracle Multicloud Architect Professional
+- Get Started with Databricks for Data Engineering
+- HackerRank Certified — Python & SQL
+- Deloitte Australia Data Analytics Job Simulation
 
 ---
 
-⭐ *"Code is like humor. When you have to explain it, it’s bad."*  
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhankhan22)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/azhan-born-to-win/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:work.azhankhan@gmail.com)
+
+`work.azhankhan@gmail.com` · Bhopal, India · Open to Remote & Freelance
